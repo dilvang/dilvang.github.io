@@ -2,14 +2,15 @@
 
 ---
 
-### Category Name 1 
+### IS1200 KTH Project
 
 [IS1200 KTH Project](/sample_page)
 <img src="images/91419981_536782770375282_1497014518922870784_n.jpg"/>
+### Project done with Mustafa Ali
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[IE1206 KTH Project](/pdf/sample_presentation.pdf)
+<img src="images/inbyggd.PNG"/>
 
 ---
 [Project 3 Title](http://example.com/)
