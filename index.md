@@ -3,7 +3,7 @@
 ### [IV1303 Modern Software Development at KTH, Project](pdf/Assignment_MADMM.pdf)
 <img src="images/italian restaurant.PNG"/>
 -Project in collaboration with 4 developers
-During Mars 2020 me and my project partners made a website for an assignment,
+<br>During Mars 2020 me and my project partners made a website for an assignment,
 this to showcase the importance of througly planned projects.
 The webside was made for a resturant and was designed by the project group.
 <br>This project was written in:
