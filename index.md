@@ -6,8 +6,7 @@
 During Mars 2020 me and my project partners made a website for an assignment,
 this to showcase the importance of througly planned projects.
 The webside was made for a resturant and was designed by the project group.
-<br>
-This project was written in:
+<br>This project was written in:
 <br>-HTML
 <br>-CSS
 
@@ -18,7 +17,6 @@ This project was written in:
 
 During May 2019 me and my project partner developed a a LED lamp on
 a arduino that was not bound to a button being pressed down.
-
 <br>This project was written in:
 <br>-Arduino code
     
@@ -33,7 +31,6 @@ a microchip that could:
 *save the times and loop up to 100.000 times with an efficient algorithm
 *display average time
 *refresh the average time after every loop
-
 <br>This project was written in:
 <br>-C
 <br>-Assembly MIPS code
