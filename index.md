@@ -1,6 +1,6 @@
 # E-Portfolio
 
-### [IV1303 Modern Software Development at KTH, Project](pdf)(pdf/Assignment_MADMM.pdf)
+### [IV1303 Modern Software Development at KTH, Project](pdf/Assignment_MADMM.pdf) (pdf)
 <img src="images/italian restaurant.PNG"/>
 -Project in collaboration with 4 project members
 <br>During Mars 2020 me and my project partners made a website for an assignment at KTH,
@@ -11,7 +11,7 @@ The webside was made for a resturant and was designed by the project group.
 <br>-CSS
 
 ---
-### [IE1206 Embedded Electronics at KTH, Project](pdf)(/pdf/Arduino Projekt.pdf)
+### [IE1206 Embedded Electronics at KTH, Project](/pdf/Arduino Projekt.pdf) (pdf)
 <img src="images/inbyggd.PNG"/>
 -Project in collaboration with project partner
 
