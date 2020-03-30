@@ -6,15 +6,19 @@
 
 [IS1200 KTH Project](/sample_page)
 <img src="images/91419981_536782770375282_1497014518922870784_n.jpg"/>
-### Project done with Mustafa Ali
+-Project in collaboration with Mustafa Ali
 
 ---
 [IE1206 KTH Project](/pdf/sample_presentation.pdf)
 <img src="images/inbyggd.PNG"/>
+<img src="images/kod1.PNG"/>
+<img src="images/kod2.PNG"/>
+<img src="images/kod3.PNG"/>
+<img src="images/kod4.PNG"/>
+
+-Project in collaboration with Mustafa Ali
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
