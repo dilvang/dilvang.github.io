@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[IS1200 KTH Project](/sample_page)
+<img src="images/91419981_536782770375282_1497014518922870784_n.jpg"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
