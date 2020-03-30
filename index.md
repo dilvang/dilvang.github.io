@@ -1,10 +1,35 @@
 # E-Portfolio of Dilvan Güler
 
+### IV1303 Modern Software Development, 2020
+
+[IV1303 Modern Software Development at KTH, Project](pdf/Assignment_MADMM.pdf)
+<img src="images/italian restaurant.PNG"/>
+-Project in collaboration with 4 developers
+During Mars 2020 me and my project partners made a website for an assignment,
+this to showcase the importance of througly planned projects.
+The webside was made for a resturant and was designed by the project group.
+This project was written in:
+-HTML
+-CSS
+
+---
+### IE1206 Embedded Electronics, 2019
+
+[IE1206 Embedded Electronics at KTH, Project](/pdf/Arduino Projekt.pdf)
+<img src="images/inbyggd.PNG"/>
+-Project in collaboration with project partner
+
+During May 2019 me and my project partner developed a a LED lamp on
+a arduino that was not bound to a button being pressed down.
+
+This project was written in:
+-Arduino code
+    
 ---
 
-### IS1200 KTH Project
+### IS1200 KTH Project, 2019
 
-[IS1200 Computer Organization and. Components at KTH, Project](/sample_page)
+[IS1200 Computer Organization and. Components at KTH, Project]
 <img src="images/91419981_536782770375282_1497014518922870784_n.jpg"/>
 -Project in collaboration with project partner
 
@@ -19,28 +44,5 @@ This project was written in:
 -Assembly MIPS code
     
 ---
-### IE1206 Embedded Electronics
 
-[IE1206 Embedded Electronics at KTH, Project](/pdf/Arduino Projekt.pdf)
-<img src="images/inbyggd.PNG"/>
--Project in collaboration with project partner
 
-During May 2019 me and my project partner developed a a LED lamp on
-a arduino that was not bound to a button being pressed down.
-
-This project was written in:
--Arduino code
-    
----
-
-### IV1303 Modern Software Development
-
-[IV1303 Modern Software Development at KTH, Project](/pdf/sample_presentation.pdf)
-<img src="images/italian restaurant.PNG"/>
--Project in collaboration with 4 developers
-During Mars 2020 me and my project partners made a website for an assignment,
-this to showcase the importance of througly planned projects.
-The webside was made for a resturant and was designed by the project group.
-This project was written in:
--HTML
--CSS
