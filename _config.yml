@@ -1,12 +1,12 @@
 title: Dilvan Güler # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Welcome!
+  Welcome!<br>
   I am a second year engineering student at KTH Royal Institute of Technology in Stockholm, Sweden.
   I am studying a Degree Programme in Information and Communication Technology. 
-  You can watch my work and projects I've contributed to here!
+  
   <br><br>
-  Second description 
+  You can watch my work and projects I've contributed to here!
   <br><br>
   <a href="https://www.linkedin.com/in/dilvanguler/">View My LinkedIn Profile!</a> 
   
