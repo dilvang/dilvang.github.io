@@ -28,9 +28,9 @@ a arduino that was not bound to a button being pressed down.
 
 During February 2019 me and my project partner developed a timer on
 a microchip that could:
-*save the times and loop up to 100.000 times with an efficient algorithm
-*display average time
-*refresh the average time after every loop
+<br>*save the times and loop up to 100.000 times with an efficient algorithm
+<br>*display average time
+<br>*refresh the average time after every loop
 <br>This project was written in:
 <br>-C
 <br>-Assembly MIPS code
