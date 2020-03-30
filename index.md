@@ -22,7 +22,7 @@ a arduino that was not bound to a button being pressed down.
     
 ---
 
-###<a href="https://github.com/dilvang/IS1200-MiniProject">[IS1200 Computer Organization and. Components at KTH, Project], 2019  </a>
+### <a href="https://github.com/dilvang/IS1200-MiniProject">[IS1200 Computer Organization and. Components at KTH, Project], 2019  </a>
 <img src="images/91419981_536782770375282_1497014518922870784_n.jpg"/>
 -Project in collaboration with project partner
 
