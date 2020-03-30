@@ -19,8 +19,8 @@ This project was written in:
 During May 2019 me and my project partner developed a a LED lamp on
 a arduino that was not bound to a button being pressed down.
 
-This project was written in:
--Arduino code
+<br>This project was written in:
+<br>-Arduino code
     
 ---
 
@@ -34,9 +34,9 @@ a microchip that could:
 *display average time
 *refresh the average time after every loop
 
-This project was written in:
--C
--Assembly MIPS code
+<br>This project was written in:
+<br>-C
+<br>-Assembly MIPS code
     
 ---
 
