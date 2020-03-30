@@ -6,9 +6,9 @@
 During Mars 2020 me and my project partners made a website for an assignment,
 this to showcase the importance of througly planned projects.
 The webside was made for a resturant and was designed by the project group.
-This project was written in:
--HTML
--CSS
+<br>This project was written in:
+<br>-HTML
+<br>-CSS
 
 ---
 ### [IE1206 Embedded Electronics at KTH, Project](/pdf/Arduino Projekt.pdf)
