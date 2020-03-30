@@ -11,9 +11,7 @@ This project was written in:
 -CSS
 
 ---
-### IE1206 Embedded Electronics, 2019
-
-[IE1206 Embedded Electronics at KTH, Project](/pdf/Arduino Projekt.pdf)
+### [IE1206 Embedded Electronics at KTH, Project](/pdf/Arduino Projekt.pdf)
 <img src="images/inbyggd.PNG"/>
 -Project in collaboration with project partner
 
@@ -25,9 +23,7 @@ This project was written in:
     
 ---
 
-### IS1200 KTH Project, 2019
-
-[IS1200 Computer Organization and. Components at KTH, Project]
+###[IS1200 Computer Organization and. Components at KTH, Project], 2019
 <img src="images/91419981_536782770375282_1497014518922870784_n.jpg"/>
 -Project in collaboration with project partner
 
