@@ -14,21 +14,22 @@ a microchip that could:
 *display average time
 *refresh the average time after every loop
 
-  This project was written in:
-    *C
-    *Assembly MIPS code
+This project was written in:
+-C
+-Assembly MIPS code
     
 ---
 ### IE1206 Embedded Electronics
 
-[IE1206 Embedded Electronics at KTH, Project](/pdf/sample_presentation.pdf)
+[IE1206 Embedded Electronics at KTH, Project](/pdf/Arduino Projekt.pdf)
 <img src="images/inbyggd.PNG"/>
 -Project in collaboration with project partner
 
 During May 2019 me and my project partner developed a a LED lamp on
 a arduino that was not bound to a button being pressed down.
- This project was written in:
-    *Arduino code
+
+This project was written in:
+-Arduino code
     
 ---
 
@@ -40,3 +41,6 @@ a arduino that was not bound to a button being pressed down.
 During Mars 2020 me and my project partners made a website for an assignment,
 this to showcase the importance of througly planned projects.
 The webside was made for a resturant and was designed by the project group.
+This project was written in:
+-HTML
+-CSS
