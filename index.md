@@ -1,4 +1,4 @@
-# E-Portfolio of Dilvan Güler
+# E-Portfolio
 
 ### IV1303 Modern Software Development, 2020
 
